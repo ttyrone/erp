@@ -122,5 +122,8 @@
 - 12.1.1.14	销售看板
 - 12.1.1.15	我的
 
-# License
+## License
+
+[MIT](https://github.com/ttyrone/erp/blob/master/LICENSE)
+
 Copyright (c) 2020-present tyrone
