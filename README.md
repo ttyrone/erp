@@ -1,6 +1,6 @@
 # 简介
 
-[云ERP](https://github.com/ttyrone/erp) 是一个后台前端解决方案，它基于 [vue](https://github.com/vuejs/vue) 、 [element-ui](https://github.com/ElemeFE/element)和[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)实现。
+[云ERP](https://github.com/ttyrone/erp) 是一个ERP后台及前端解决方案，它基于 [vue](https://github.com/vuejs/vue) 、 [element-ui](https://github.com/ElemeFE/element)和[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)实现。
 - 本系统功能覆盖进销存全流程，无需下载软件，打开浏览器即可使用，建议使用google chrome浏览器，不支持IE9以下的老式浏览器。
 - 支持采购管理，库存管理，订单管理，会员管理，员工管理，商品管理，通用版难以满足使用需求时，可通过功能定制，打造所需功能。
 - 权限控制细腻，数据预警丰富，操作简便，所有功能均支持批量操作。
